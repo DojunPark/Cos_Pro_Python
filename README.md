@@ -3,9 +3,9 @@ This is a compilation of jupyter notebooks exercises for the preparation for COS
 
 # Contents
 ## Exercise1
-- Making a function to count each shirt size
-- Making a function to calculate how much you have to pay
-- Making a function to count how many days are between two input dates
+- Making a function that counts each shirt size
+- Making a function that calculates how much you have to pay
+- Making a function that counts how many days are between two input dates
 - Making a function that calculates how many times the most frequent number appears than the least frequent number
 - Making a function that reverts the order of input list
 - Making a function that receives a number and makes a series of numbers from 1 to received number. each 3, 6, 9 will be printed as a clap
@@ -16,3 +16,6 @@ This is a compilation of jupyter notebooks exercises for the preparation for COS
 
 ## Exercise2
 -
+
+## Exercise extra
+- additional exercises and review etc.
