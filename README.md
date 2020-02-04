@@ -18,4 +18,4 @@ This is a compilation of jupyter notebooks exercises for the preparation for COS
 -
 
 ## Exercise extra
-- additional exercises and review etc.
+- additional exercises and reviews etc.
