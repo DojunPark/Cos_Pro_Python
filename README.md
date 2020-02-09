@@ -27,6 +27,18 @@ This is a compilation of jupyter notebooks exercises for the preparation for COS
 - Making a function that finds out the 'k'th. smallst number from a list
 
 ## Mock test 1
+- Making a function that calculates the change
+- Making a function that returns total summation of input list without maximum and minumum values
+- Making a function that counts persons whose score is over the requirement
+- Making a function that calculates the total cost with tax
+- Making a function that confirms if the integer contains 3, 6, or 9
+- Making a function that finds out the number of intersections
+- Making a function that checks input information for file uploading
+- Making a function that confirms if the input sentence is a palindrome
+- Making a function that deletes redundant letters
+- Making a function that finds out how many numbers are smaller than average
+
+### Mock test 2
 - 
 
 ## Exercise extra
