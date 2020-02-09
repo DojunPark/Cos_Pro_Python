@@ -1,5 +1,5 @@
 # Professional Coding Specialist COS Pro level 2 - python
-This is a compilation of jupyter notebooks exercises for the preparation for COS pro python - level 2
+This is a compilation of jupyter notebook exercises for the preparation of COS pro python - level 2
 
 # Contents
 ## Exercise 1
