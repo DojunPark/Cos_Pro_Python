@@ -38,8 +38,19 @@ This is a compilation of jupyter notebook exercises for the preparation of COS p
 - Making a function that deletes redundant letters
 - Making a function that finds out how many numbers are smaller than average
 
-### Mock test 2
-- 
+## Mock test 2
+- Making a function that calculates football field rental fee
+- Making a function that calculates the order amount of the football shoes
+- Making a function that subtracts the second maximum value from the first maximum value
+- Making a function that counts number of person by grade
+- Making a function that counts frequencies
+- Making a function that counts how many persons are heavier than 'k'
+- Making a function that changes certain characters in the input string
+- Making a function that counts names which contains certain characters
+- Making a function that get total box amount needed
+- Making a function that checks if the input ISBN numbers are valid
+
+## Mock test 3
 
 ## Exercise extra
 - additional exercises and reviews etc.
