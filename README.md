@@ -51,6 +51,18 @@ This is a compilation of jupyter notebook exercises for the preparation of COS p
 - Making a function that checks if the input ISBN numbers are valid
 
 ## Mock test 3
+- Making a function that calculates distance
+- Making a function that calculates proper budget for each department
+- Making a function that finds out who has been the same class with teacher most
+- Making a function that calculates how many times it takes to paint all walls
+- Making a function that finds out who wins the card game
+- Making a function that adds all integers from the given string
+- Making a function that judges balls in a baseball game
+- Making a function that confirms if the input string contains certain characters
+- Making a function that calculates total scores
+- Making a function that calculates how long it takes to process the input strings
+
+## Mock test 4
 
 ## Exercise extra
 - additional exercises and reviews etc.
