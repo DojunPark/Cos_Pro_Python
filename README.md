@@ -63,6 +63,18 @@ This is a compilation of jupyter notebook exercises for the preparation of COS p
 - Making a function that calculates how long it takes to process the input strings
 
 ## Mock test 4
+- Making a function that combines card numbers and counts odd numbers
+- Making a function that returns number of weights needed
+- Making a function that returns how many times the school bus goes and returns
+- Making a function that counts opened doors
+- Making a function that counts pairs of square brackets
+- Making a function that counts how many people are attending each class
+- Making a function that counts when x and y are in a same position
+- Making a function that returns score that is mostly different from average
+- Making a function that returns how many rooms are needed
+- Making a function that returns survey result
+
+## Mock test 5
 
 ## Exercise extra
 - additional exercises and reviews etc.
