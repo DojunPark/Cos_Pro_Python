@@ -75,6 +75,16 @@ This is a compilation of jupyter notebook exercises for the preparation of COS p
 - Making a function that returns survey result
 
 ## Mock test 5
+- Making a function that returns number how many times charged
+- Making a function that offers discout for every 4th. item
+- Making a function that returns total sales
+- Making a function that returns input alphbets as numbers
+- Making a function that returns total cost of parking lot
+- Making a function that counts people standing in train and returns biggest number
+- Making a function that calculates the profit from sales
+- Making a function that returns area of triangle
+- Making a function that plays "up-down" game
+- Making a function that calculates electricity bill by household
 
 ## Exercise extra
 - additional exercises and reviews etc.
